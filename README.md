@@ -1,6 +1,6 @@
 # Hi I'am Arthur Santos! A cybersecurity and programming enthusiast!
 
-![Art-Sec GitHub stats](https://github-readme-stats.vercel.app/api?username=art-sec&show_icons=true&theme=transparent)
+![Art-Sec GitHub stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=art-sec&theme=dracula)](https://github.com/anuraghazra/github-readme-stats))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=art-sec&layout=compact&hide-title=true&theme=transparent)
 
 # Tech Stack 💻

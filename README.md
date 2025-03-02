@@ -1,7 +1,7 @@
 # Hi I'am Arthur Santos! A cybersecurity and programming enthusiast!
 
-![Art-Sec's GitHub stats](https://github-readme-stats.vercel.app/api?username=art-sec&theme=dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=art-sec&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Art-Sec's GitHub stats](https://github-readme-stats.vercel.app/api?username=art-sec&theme=transparent)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=art-sec&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 # Tech Stack 💻
 <div style="display: inline_block"><br>
@@ -16,4 +16,5 @@
   <img align="center" alt="Art-sec-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Art-sec-mongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Art-sec-prisma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg">
+  <img align="center" alt="Art-sec-selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
 </div>

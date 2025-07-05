@@ -1,20 +1,51 @@
-# Hi I'am Arthur Santos! A cybersecurity and programming enthusiast!
+# 👋 Olá! Eu sou o Arthur Santos (art-sec)
 
-![Art-Sec's GitHub stats](https://github-readme-stats.vercel.app/api?username=art-sec&theme=transparent)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=art-sec&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+🎯 Apaixonado por **Cybersegurança**, **Desenvolvimento Web** e **Programação** em geral.
 
-# Tech Stack 💻
-<div style="display: inline_block"><br>
-  <img align="center" alt="Art-sec-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Art-sec-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Art-sec-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Art-sec-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Art-sec-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Art-sec-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Art-sec-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  <img align="center" alt="Art-sec-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Art-sec-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Art-sec-mongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Art-sec-prisma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg">
-  <img align="center" alt="Art-sec-selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+> “I like to make some code!” 🚀
+
+---
+
+## 🧠 Sobre mim
+
+- 🔐 Entusiasta de segurança da informação
+- 💻 Desenvolvedor com foco em back-end e automações
+- 🛠️ Explorador de novas linguagens e tecnologias
+- 📍 Localização: Brasil 🇧🇷
+- 📸 Instagram: [@hl.sosa7](https://instagram.com/hl.sosa7)
+
+---
+
+## 📊 GitHub Stats
+
+![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=art-sec&show_icons=true&theme=dracula&hide_title=true&hide=prs,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=art-sec&layout=compact&theme=dracula)
+
+---
+
+## 🧰 Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" />
 </div>
+
+---
+
+## 🧭 Objetivos
+
+- Contribuir mais com projetos open source
+- Aprender mais sobre testes automatizados e segurança ofensiva
+- Criar ferramentas úteis para o dia a dia de devs e analistas de segurança
+
+---
+
+_Obrigado por visitar meu perfil!_ 🤝
